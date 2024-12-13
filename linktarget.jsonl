@@ -1,30 +1,8 @@
 {"lt_id": 1, "lt_namespace": 0, "lt_title": "Main_Page"}
 {"lt_id": 2, "lt_namespace": 0, "lt_title": "Python_(programming_language)"}
-{"lt_id": 3, "lt_namespace": 0, "lt_title": "Artificial_Intelligence"}
 {"lt_id": 4, "lt_namespace": 0, "lt_title": "Machine_Learning"}
-{"lt_id": 5, "lt_namespace": 0, "lt_title": "Deep_Learning"}
-{"lt_id": 6, "lt_namespace": 0, "lt_title": "Neural_Networks"}
 {"lt_id": 7, "lt_namespace": 0, "lt_title": "Data_Science"}
-{"lt_id": 8, "lt_namespace": 0, "lt_title": "Natural_Language_Processing"}
-{"lt_id": 9, "lt_namespace": 0, "lt_title": "Computer_Vision"}
-{"lt_id": 10, "lt_namespace": 0, "lt_title": "Data_Mining"}
-{"lt_id": 11, "lt_namespace": 0, "lt_title": "Robotics"}
-{"lt_id": 12, "lt_namespace": 0, "lt_title": "Reinforcement_Learning"}
-{"lt_id": 13, "lt_namespace": 0, "lt_title": "Computer_Networks"}
-{"lt_id": 14, "lt_namespace": 0, "lt_title": "Big_Data"}
-{"lt_id": 15, "lt_namespace": 0, "lt_title": "Cloud_Computing"}
-{"lt_id": 16, "lt_namespace": 0, "lt_title": "Blockchain"}
-{"lt_id": 17, "lt_namespace": 0, "lt_title": "Quantum_Computing"}
-{"lt_id": 18, "lt_namespace": 0, "lt_title": "Cryptography"}
-{"lt_id": 19, "lt_namespace": 0, "lt_title": "Artificial_Neural_Networks"}
-{"lt_id": 20, "lt_namespace": 0, "lt_title": "Fuzzy_Logic"}
-{"lt_id": 21, "lt_namespace": 0, "lt_title": "Swarm_Intelligence"}
-{"lt_id": 22, "lt_namespace": 0, "lt_title": "Genetic_Algorithms"}
-{"lt_id": 23, "lt_namespace": 0, "lt_title": "Neural_Engineering"}
-{"lt_id": 24, "lt_namespace": 0, "lt_title": "Cognitive_Computing"}
-{"lt_id": 25, "lt_namespace": 0, "lt_title": "Hadoop"}
-{"lt_id": 26, "lt_namespace": 0, "lt_title": "TensorFlow"}
-{"lt_id": 27, "lt_namespace": 0, "lt_title": "Keras"}
-{"lt_id": 28, "lt_namespace": 0, "lt_title": "PyTorch"}
-{"lt_id": 29, "lt_namespace": 0, "lt_title": "Scikit-learn"}
-{"lt_id": 30, "lt_namespace": 0, "lt_title": "Apache_Spark"}
+{"lt_id": 8, "lt_namespace": 0, "lt_title": "Big_Data"}
+{"lt_id": 9, "lt_namespace": 0, "lt_title": "Artificial_Intelligence"}
+
+
